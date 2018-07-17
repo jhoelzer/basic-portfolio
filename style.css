@@ -1,0 +1,21 @@
+body {
+    background-color: #E2FAEC;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+details {
+    background-image: url("TexturesCom_WoodPlanksBare0347_1_seamless_S.jpg");
+    color: white;
+    font-size: 25px;
+}
+summary {
+    padding: 25px 0 25px 40%;
+}
+.image {
+    width: 300px;
+    padding: 25px;
+}
+
+#img-one {
+    margin-left: 10%;
+}
